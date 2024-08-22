@@ -1,6 +1,7 @@
 # <h2 align="center">Olá👋, eu sou Felipe Dias (AkashiAkz) e sou um amante e hardwares e agora de softwares</h2>
 <p>📌 Santo André, SP<br>
   <br> Amo música, (a príncipio tenho um perfil de artista no spotify, produtor de lo-fi), Jogos, de preferencia single player, tenho uma assistencia tecnica e agora estou me apaixonando por códigos.
+  <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z4OWliMGo4bzRhcmxtdGdzeXBuY2FnMGozczc5cnl5cjJidXVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKGOhl6hVAxkvMQ/giphy.webp"  />
 
 💻 - Instituto PROA - Equipe 5 2024 2° semestre.
 
