@@ -15,3 +15,11 @@ Você pode me encontrar nas seguintes redes sociais:
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Logo"/>
 <a href="https://open.spotify.com/intl-pt/artist/6LEdJ6utI177hisghYMflp?si=1MvNQ-tkQE-IAU2AQAC1Kg" target"_blank">
   <img src="https://img.shields.io/badge/spotify-1ED760?logo=spotify&logoColor=white" height="35" alt="Instagram Logo">
+
+  <br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashiAkz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com/?user=AkashiAkz&locale=pt-br&mode=daily&theme=monokai&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashiAkz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
+</div>
